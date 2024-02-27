@@ -9,3 +9,9 @@ h1 {
     background-color: black;
     margin-right: 73%;
 }                                                        
+
+.PhotoshopImage {
+    height: 150px;
+    width: 150px;
+    text-align: center;
+    }
